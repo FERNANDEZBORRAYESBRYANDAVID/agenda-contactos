@@ -2,6 +2,8 @@
 
 ## Integrantes del equipo
 - Fernandez Borrayes Bryan David
+- Angel Daniel Toala Ortiz
+- Adrian Mundo Zarate
 
 ## Nombre de la materia
 Programación Web
